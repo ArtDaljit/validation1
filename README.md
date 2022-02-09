@@ -1,2 +1,0 @@
-# validation
-EdX-DevOps
